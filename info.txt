@@ -1,0 +1,3 @@
+Producto: Consultoría estratégica
+Precio: 100
+Categoría: Premium
